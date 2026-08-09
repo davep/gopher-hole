@@ -17,6 +17,24 @@ i~~~~~~~~~~~~~~~~~~~		null.host	0
 h[Web] Rogallo - A Gemini/Gopher/Finger client for the terminal	URL:https://rogallo.davep.dev/
 h[Gemini] Rogallo - A Gemini/Gopher/Finger client for the terminal	URL:gemini://tilde.team/~davep/rogallo/
 
+h[Web] Gemtext - A small Python library for parsing Gemtext content	URL:https://gemtext.davep.dev/
+h[Gemini] Gemtext - A small Python library for parsing Gemtext content	URL:gemini://tilde.team/~davep/gemtext/
+
+h[Web] Port70 - An async-first, fully type-hinted Python client library for the Gopher protocol	URL:https://port70.davep.dev/
+h[Gemini] Port70 - An async-first, fully type-hinted Python client library for the Gopher protocol	URL:gemini://tilde.team/~davep/port70/
+
+h[Web] Port79 - An async-first, fully type-hinted Python client library for the Finger protocol	URL:https://port79.davep.dev/
+h[Gemini] Port79 - An async-first, fully type-hinted Python client library for the Finger protocol	URL:gemini://tilde.team/~davep/port79/
+
+h[Web] SmolServe - A lightweight, multi-protocol server serving Gemini, Gopher, Finger, and Spartan protocols	URL:https://smolserve.davep.dev/
+h[Gemini] SmolServe - A lightweight, multi-protocol server serving Gemini, Gopher, Finger, and Spartan protocols	URL:gemini://tilde.team/~davep/smolserve/
+
+h[Web] Sybaritic - An async-first, fully type-hinted Python client library for the Spartan Protocol	URL:https://sybaritic.davep.dev/
+h[Gemini] Sybaritic - An async-first, fully type-hinted Python client library for the Spartan Protocol	URL:gemini://tilde.team/~davep/sybaritic/
+
+h[Web] Wasat - A fully type-hinted asynchronous client library for the Gemini Protocol	URL:https://wasat.davep.dev/
+h[Gemini] Wasat - A fully type-hinted asynchronous client library for the Gemini Protocol	URL:gemini://tilde.team/~davep/wasat/
+
 i==============================================================================		null.host	0
 1Hosted on tilde.team	/
 i==============================================================================		null.host	0
