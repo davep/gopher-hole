@@ -1,41 +1,37 @@
-i==============================================================================		null.host	0
-=/usr/bin/figlet davep.org
-i==============================================================================		null.host	0
-
 Some places to find me and more of my stuff
 i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~		null.host	0
 
 hFind me all over	URL:https://davep.at/
-hFind me in Geminispace	URL:gemini://tilde.team/~davep/
+hFind me in Geminispace	URL:gemini://tilde.town/~davep/
 hMy blog	URL:https://blog.davep.org/
 hfinger://plan.cat/davep	URL:finger://plan.cat/davep
-hfinger://tilde.team/davep	URL:finger://tilde.team/davep
+hfinger://tilde.town/davep	URL:finger://tilde.town/davep
 
 My current projects
 i~~~~~~~~~~~~~~~~~~~		null.host	0
 
 h[Web] Rogallo - A Gemini/Gopher/Finger client for the terminal	URL:https://rogallo.davep.dev/
-h[Gemini] Rogallo - A Gemini/Gopher/Finger client for the terminal	URL:gemini://tilde.team/~davep/rogallo/
+h[Gemini] Rogallo - A Gemini/Gopher/Finger client for the terminal	URL:gemini://tilde.town/~davep/rogallo/
 
 h[Web] Gemtext - A small Python library for parsing Gemtext content	URL:https://gemtext.davep.dev/
-h[Gemini] Gemtext - A small Python library for parsing Gemtext content	URL:gemini://tilde.team/~davep/gemtext/
+h[Gemini] Gemtext - A small Python library for parsing Gemtext content	URL:gemini://tilde.town/~davep/gemtext/
 
 h[Web] Port70 - An async-first, fully type-hinted Python client library for the Gopher protocol	URL:https://port70.davep.dev/
-h[Gemini] Port70 - An async-first, fully type-hinted Python client library for the Gopher protocol	URL:gemini://tilde.team/~davep/port70/
+h[Gemini] Port70 - An async-first, fully type-hinted Python client library for the Gopher protocol	URL:gemini://tilde.town/~davep/port70/
 
 h[Web] Port79 - An async-first, fully type-hinted Python client library for the Finger protocol	URL:https://port79.davep.dev/
-h[Gemini] Port79 - An async-first, fully type-hinted Python client library for the Finger protocol	URL:gemini://tilde.team/~davep/port79/
+h[Gemini] Port79 - An async-first, fully type-hinted Python client library for the Finger protocol	URL:gemini://tilde.town/~davep/port79/
 
 h[Web] SmolServe - A lightweight, multi-protocol server serving Gemini, Gopher, Finger, and Spartan protocols	URL:https://smolserve.davep.dev/
-h[Gemini] SmolServe - A lightweight, multi-protocol server serving Gemini, Gopher, Finger, and Spartan protocols	URL:gemini://tilde.team/~davep/smolserve/
+h[Gemini] SmolServe - A lightweight, multi-protocol server serving Gemini, Gopher, Finger, and Spartan protocols	URL:gemini://tilde.town/~davep/smolserve/
 
 h[Web] Sybaritic - An async-first, fully type-hinted Python client library for the Spartan Protocol	URL:https://sybaritic.davep.dev/
-h[Gemini] Sybaritic - An async-first, fully type-hinted Python client library for the Spartan Protocol	URL:gemini://tilde.team/~davep/sybaritic/
+h[Gemini] Sybaritic - An async-first, fully type-hinted Python client library for the Spartan Protocol	URL:gemini://tilde.town/~davep/sybaritic/
 
 h[Web] Wasat - A fully type-hinted asynchronous client library for the Gemini Protocol	URL:https://wasat.davep.dev/
-h[Gemini] Wasat - A fully type-hinted asynchronous client library for the Gemini Protocol	URL:gemini://tilde.team/~davep/wasat/
+h[Gemini] Wasat - A fully type-hinted asynchronous client library for the Gemini Protocol	URL:gemini://tilde.town/~davep/wasat/
 
 i==============================================================================		null.host	0
-1Hosted on tilde.team	/
+1Hosted on tilde.town	/
 i==============================================================================		null.host	0
 .

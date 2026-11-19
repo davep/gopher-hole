@@ -1,5 +1,6 @@
 site = site/
-host = tilde
+#host = team
+host = town
 
 .PHONY: view
 view:				# View the site in a browser.
